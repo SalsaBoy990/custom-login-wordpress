@@ -1,0 +1,12 @@
+.mb1 {
+  margin-bottom: 1.5rem;
+}
+
+.mt1 {
+  margin-top: 1.5rem;
+}
+
+img.ag-weather-now.icon {
+  width: 48px;
+  height: auto;
+}

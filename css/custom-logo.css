@@ -1,0 +1,13 @@
+#login h1 a,
+.login h1 a {
+  background-image: url(http://basic.test/wp-content/uploads/2020/09/Star-Trek-Logo.png);
+  height: 100px;
+  width: 300px;
+  background-size: 300px 100px;
+  background-repeat: no-repeat;
+  padding-bottom: 10px;
+}
+
+.login #backtoblog, .login #nav {
+  background: rgba(255,255,255,0.8);
+}
